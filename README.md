@@ -1,0 +1,1 @@
+# ASTRIVIA APK`n`nRepositorio de descargas públicas de la aplicación. Las cuentas y el acceso se gestionan en el Core de ASTRIVIA.`n
